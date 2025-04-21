@@ -6,6 +6,7 @@
 - ls -> (List) Lista o conteudo presente no diretorio do servidor
 - cp -> (Copy) Copia um ou mais arquivos do cliente para o servidor, o destino deve ser um diretorio. (Os arquivos copiados receberao o mesmo nome no servidor)
 - get -> (Get) Baixa um ou mais arquivos presentes no servidor para o cliente.
+- rm -> (Remove) Remove um ou mais arquivos de um diretorio
 
 ## Organizacao do repositorio:
 
